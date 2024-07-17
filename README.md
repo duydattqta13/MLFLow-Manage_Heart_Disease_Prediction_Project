@@ -15,7 +15,7 @@ pip install mlflow
 ```
 
 # Các chú ý khi dùng MLflow Tracking
-``mlflow.set_tracking_uri()`: kết nối đến một tracking URI, thường sẽ thiết lập biến môi trường MLFLOW_TRACKING_URI. URI có thể là HTTP/HTTPS cho remote server, database connection string, hoặc local path để log data đến 1 đường dẫn. URI mặc định đến folder mlruns.
+`mlflow.set_tracking_uri()`: kết nối đến một tracking URI, thường sẽ thiết lập biến môi trường MLFLOW_TRACKING_URI. URI có thể là HTTP/HTTPS cho remote server, database connection string, hoặc local path để log data đến 1 đường dẫn. URI mặc định đến folder mlruns.
 
 `mlflow.get_tracking_uri()`: trả về tracking URI hiện tại
 
