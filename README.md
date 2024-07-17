@@ -36,6 +36,9 @@ pip install mlflow
 - Tạo Run dùng MLFlow project file
 `mlflow run . --experiment-name Loan_prediction`  # run from folder where `MLProject` file is present
 
+![result_1](result_1.png)
+![result_2](result_2.png)
+
 - Run từ git repository
 `mlflow run https://github.com/manifoldailearning/ml-flow-project --experiment-name Loan_prediction` 
 
