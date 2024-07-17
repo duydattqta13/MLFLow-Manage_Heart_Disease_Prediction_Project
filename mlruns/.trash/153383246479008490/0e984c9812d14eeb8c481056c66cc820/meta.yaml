@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/153383246479008490/0e984c9812d14eeb8c481056c66cc820/artifacts
+deleted_time: 1721231252821
+end_time: 1721230507348
+entry_point_name: ''
+experiment_id: '153383246479008490'
+lifecycle_stage: deleted
+run_id: 0e984c9812d14eeb8c481056c66cc820
+run_name: gifted-grub-66
+run_uuid: 0e984c9812d14eeb8c481056c66cc820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721230505223
+status: 3
+tags: []
+user_id: duydat

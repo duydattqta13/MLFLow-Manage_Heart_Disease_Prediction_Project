@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797522730520432861/e21c4874b51848f9988548341a553767/artifacts
+deleted_time: 1721230384418
+end_time: 1721210318332
+entry_point_name: ''
+experiment_id: '797522730520432861'
+lifecycle_stage: deleted
+run_id: e21c4874b51848f9988548341a553767
+run_name: resilient-fox-230
+run_uuid: e21c4874b51848f9988548341a553767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210316290
+status: 3
+tags: []
+user_id: duydat

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797522730520432861/76322b5ebfc348c7a94c12ae7eceecc7/artifacts
+deleted_time: 1721230384418
+end_time: 1721230368185
+entry_point_name: ''
+experiment_id: '797522730520432861'
+lifecycle_stage: deleted
+run_id: 76322b5ebfc348c7a94c12ae7eceecc7
+run_name: unruly-turtle-289
+run_uuid: 76322b5ebfc348c7a94c12ae7eceecc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721230367965
+status: 4
+tags: []
+user_id: duydat

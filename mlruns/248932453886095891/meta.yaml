@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/248932453886095891
+creation_time: 1721232019960
+experiment_id: '248932453886095891'
+last_update_time: 1721232019960
+lifecycle_stage: active
+name: Heart_disease_prediction

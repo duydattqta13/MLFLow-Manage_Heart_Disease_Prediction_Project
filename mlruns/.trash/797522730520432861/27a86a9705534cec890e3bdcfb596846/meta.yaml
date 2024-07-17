@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797522730520432861/27a86a9705534cec890e3bdcfb596846/artifacts
+deleted_time: 1721230384418
+end_time: 1721210319608
+entry_point_name: ''
+experiment_id: '797522730520432861'
+lifecycle_stage: deleted
+run_id: 27a86a9705534cec890e3bdcfb596846
+run_name: youthful-wasp-880
+run_uuid: 27a86a9705534cec890e3bdcfb596846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721210318335
+status: 3
+tags: []
+user_id: duydat

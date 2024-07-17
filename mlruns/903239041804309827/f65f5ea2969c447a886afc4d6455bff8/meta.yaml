@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/903239041804309827/f65f5ea2969c447a886afc4d6455bff8/artifacts
+end_time: 1721189126822
+entry_point_name: ''
+experiment_id: '903239041804309827'
+lifecycle_stage: active
+run_id: f65f5ea2969c447a886afc4d6455bff8
+run_name: gentle-dog-365
+run_uuid: f65f5ea2969c447a886afc4d6455bff8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721189125509
+status: 3
+tags: []
+user_id: duydat

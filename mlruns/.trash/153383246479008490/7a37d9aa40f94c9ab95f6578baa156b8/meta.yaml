@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/153383246479008490/7a37d9aa40f94c9ab95f6578baa156b8/artifacts
+deleted_time: 1721231252821
+end_time: 1721230508744
+entry_point_name: ''
+experiment_id: '153383246479008490'
+lifecycle_stage: deleted
+run_id: 7a37d9aa40f94c9ab95f6578baa156b8
+run_name: skillful-gnu-929
+run_uuid: 7a37d9aa40f94c9ab95f6578baa156b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721230507351
+status: 3
+tags: []
+user_id: duydat

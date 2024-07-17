@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/903239041804309827/bb540c6240f6458690637dcc83c09fcd/artifacts
+end_time: 1721189124265
+entry_point_name: ''
+experiment_id: '903239041804309827'
+lifecycle_stage: active
+run_id: bb540c6240f6458690637dcc83c09fcd
+run_name: learned-smelt-334
+run_uuid: bb540c6240f6458690637dcc83c09fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721189122333
+status: 3
+tags: []
+user_id: duydat
