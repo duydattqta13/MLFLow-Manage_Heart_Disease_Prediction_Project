@@ -1,4 +1,5 @@
-
+## Các models thực nghiệm
+DecisionTreeClassifier, KNeighborsClassifier, LogisticRegression, RandomForestClassifier
 ## Virtual Environment
 Tạo môi trường với Conda
 
