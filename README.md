@@ -1,9 +1,9 @@
-# Nội dung thực hiện
+## Nội dung thực hiện
 - [Slide](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/Slide_Presentation.pdf)
 - [EDA dataset](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/EDA_Predict_Heart_Disease.ipynb)
 - [Experiment Model](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/heart_prediction.py)
 
-# Các models thực nghiệm
+## Các models thực nghiệm
 DecisionTreeClassifier, KNeighborsClassifier, LogisticRegression, RandomForestClassifier
 ## Virtual Environment
 Tạo môi trường với Conda
@@ -40,13 +40,13 @@ pip install mlflow
 # MLFlow Projects
 
 - Tạo Run dùng MLFlow project file
-`mlflow run . --experiment-name Loan_prediction`  # run from folder where `MLProject` file is present
+`mlflow run . --experiment-name Heart_disease_prediction`  # run from folder where `MLProject` file is present
 
 ![result_1](result_1.png)
 ![result_2](result_2.png)
 
 - Run từ git repository
-`mlflow run https://github.com/manifoldailearning/ml-flow-project --experiment-name Loan_prediction` 
+`mlflow run https://github.com/manifoldailearning/ml-flow-project --experiment-name Heart_disease_prediction` 
 
 # MLFlow Models
 - install virtualenv
@@ -56,7 +56,7 @@ pip install mlflow
 `pip install chardet`
 
 - Serve Models với Local REST server
-`mlflow models serve -m runs:/<RUN_ID>/model --port 9000`
+`mlflow models serve -m runs:/11afa00e7dee42a19f0b19640180556c/DecisionTreeClassifier --host 127.0.0.1 --port 9000`
 
 `mlflow models serve -m /Users/nachiketh/Desktop/author-repo/Complete-MLOps-BootCamp/MLFlow-Manage-ML-Experiments/mlruns/636758781795674813/91ef1ea3f63d40a7a33c4251dd088618/artifacts/RandomForestClassifier --port 9000`
 
