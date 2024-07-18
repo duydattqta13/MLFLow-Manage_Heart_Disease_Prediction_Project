@@ -40,7 +40,7 @@ pip install mlflow
 # MLFlow Projects
 
 - Tạo Run dùng MLFlow project file
-`mlflow run . --experiment-name Heart_disease_prediction`  # run from folder where `MLProject` file is present
+`mlflow run . --experiment-name Heart_disease_prediction`  # run folder chỗ `MLProject` file hiện có
 
 ![result_1](result_1.png)
 ![result_2](result_2.png)
