@@ -125,12 +125,14 @@ LogisticRegression/
 
 `docker build -t mlflow_app .`
 
-'docker tag mlflow_app:latest public.ecr.aws/a0n7t7l4/mlflow_app:latest`
+`docker tag mlflow_app:latest public.ecr.aws/a0n7t7l4/mlflow_app:latest`
 
 `docker push public.ecr.aws/a0n7t7l4/mlflow_app:latest`
 
 `docker run -it -p 5003:5000 public.ecr.aws/a0n7t7l4/mlflow_app:latest`
+
 ![aws](aws.png)
+
 # Xoá Images và Containers
 `docker rmi $(docker images -q)`
 
