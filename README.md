@@ -121,17 +121,17 @@ LogisticRegression/
 `mlflow models serve -m "models:/Prediction_Model_RF/Production" -p 1234`
 
 ## Login AWS
-'aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/a0n7t7l4'
+`aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/a0n7t7l4` 
 
-'docker build -t mlflow_app .'
+`docker build -t mlflow_app .`
 
-'docker tag mlflow_app:latest public.ecr.aws/a0n7t7l4/mlflow_app:latest'
+'docker tag mlflow_app:latest public.ecr.aws/a0n7t7l4/mlflow_app:latest`
 
-'docker push public.ecr.aws/a0n7t7l4/mlflow_app:latest'
+`docker push public.ecr.aws/a0n7t7l4/mlflow_app:latest`
 
-'docker run -it -p 5003:5000 public.ecr.aws/a0n7t7l4/mlflow_app:latest'
+`docker run -it -p 5003:5000 public.ecr.aws/a0n7t7l4/mlflow_app:latest`
 ![aws](aws.png)
 # Xoá Images và Containers
-'docker rmi $(docker images -q)'
+`docker rmi $(docker images -q)`
 
-'docker rm $(docker ps -a -q)'
+`docker rm $(docker ps -a -q)`
