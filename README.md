@@ -1,3 +1,8 @@
+## Nội dung thực hiện
+- [Slide](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/Slide_Presentation.pdf)
+- [EDA dataset](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/EDA_Predict_Heart_Disease.ipynb)
+- [Experiment Model](https://github.com/duydattqta13/MLFLow-Manage_Heart_Disease_Prediction_Project/blob/main/heart_prediction.py)
+
 ## Các models thực nghiệm
 DecisionTreeClassifier, KNeighborsClassifier, LogisticRegression, RandomForestClassifier
 ## Virtual Environment
